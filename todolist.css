@@ -1,0 +1,16 @@
+body {
+	text-align: center;
+}
+
+li {
+	padding-top: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-left: 450px;
+	margin-right: 400px;
+}
+
+
+img {
+	display: inline-block;
+}
